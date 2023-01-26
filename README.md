@@ -3,7 +3,7 @@
 
 ## Resources
 
-Here are some resources Coder Quad recommends to prepare for OA's and technical interviews!
+Add more content
 
 
 ## The List
