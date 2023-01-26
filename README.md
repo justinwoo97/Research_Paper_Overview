@@ -9,4 +9,5 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 ## The List
 
 | Paper               | Overivew                                            |
-| ------------------ | ---------------------------------------------------- |
+| ------------------- | --------------------------------------------------- |
+| [Deep Compression: Pruning + Quantization + Huffman Coding](https://arxiv.org/abs/1510.00149) | Empty  |
