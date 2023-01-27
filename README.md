@@ -5,7 +5,7 @@
 
 | Survey Paper             | Overivew                                            | Keyword | Status | 
 | ------------------------ | --------------------------------------------------- | --------|--------|
-|[Neural Network Pruning 101](https://towardsdatascience.com/neural-network-pruning-101-af816aaea61)|None|None| <ul><li>- [x] Backlog</li><li>- [ ] Reading</li><li>- [ ] Done</li></ul>
+|[Neural Network Pruning 101](https://towardsdatascience.com/neural-network-pruning-101-af816aaea61)|None|None| <ul><li>- [ ] Backlog</li><li>- [x] Reading</li><li>- [ ] Done</li></ul>
 |[Methods for pruning deep neiral networks](http://usir.salford.ac.uk/id/eprint/64107/8/Methods_for_Pruning_Deep_Neural_Networks.pdf)|None|None|<ul><li>- [x] Backlog</li><li>- [ ] Reading</li><li>- [ ] Done</li></ul>
 |[Pruning Algorithms - A Survey](https://axon.cs.byu.edu/~martinez/classes/678/Papers/Reed_PruningSurvey.pdf)|None|None|<ul><li>- [x] Backlog</li><li>- [ ] Reading</li><li>- [ ] Done</li></ul>
 |[Convolutional Neural Network Pruning: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9189610)|None|None|<ul><li>- [x] Backlog</li><li>- [ ] Reading</li><li>- [ ] Done</li></ul>
