@@ -36,3 +36,8 @@
 | [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](https://arxiv.org/abs/1905.01067)|Empty|[ ] Working<br/>[ ] Done |
 | [One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://arxiv.org/abs/1906.02773)|Empty|[ ] Working<br/>[ ] Done |
 
+## The Lottery Ticket Hypothesis - Extended (Transformers)
+| Paper               | Overivew                                            | Status | 
+| ------------------- | --------------------------------------------------- |--------|
+| [The Lottery Ticket Hypothesis for Pre-trained BERT Networks](https://proceedings.neurips.cc/paper/2020/file/b6af2c9703f203a2794be03d443af2e3-Paper.pdf)|Empty|[ ] Working<br/>[ ] Done |
+| [Dissecting Lottery Ticket Transformers: Structural and Behavioral Study of Sparse Neural Machine Translation](https://aclanthology.org/2020.blackboxnlp-1.19/)|Empty|[ ] Working<br/>[ ] Done |
