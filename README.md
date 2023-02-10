@@ -43,8 +43,4 @@
 | [The Lottery Ticket Hypothesis for Pre-trained BERT Networks](https://proceedings.neurips.cc/paper/2020/file/b6af2c9703f203a2794be03d443af2e3-Paper.pdf)|:white_check_mark: |||
 | [Dissecting Lottery Ticket Transformers: Structural and Behavioral Study of Sparse Neural Machine Translation](https://aclanthology.org/2020.blackboxnlp-1.19/)|:white_check_mark: |||
 
-## test
-Function | MySQL / MariaDB | PostgreSQL | SQLite
-:------------ | :-------------| :-------------| :-------------
-substr | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
-test | |  :white_check_mark: | :heavy_check_mark:
+
