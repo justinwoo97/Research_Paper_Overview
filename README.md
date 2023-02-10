@@ -1,7 +1,7 @@
 # This page is dedicated to all pruning related papers. 
 
 
-## Pruning Survey Paper - To Read
+## Pruning Survey Paper
 
 | Survey Paper              | Backlog | Reading | Notes-Composed | 
 | ------------------------  |---------| --------| ---------------|
