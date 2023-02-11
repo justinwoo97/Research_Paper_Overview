@@ -18,10 +18,10 @@
 
 | Paper               | Backlog | Reading | Notes-Composed | 
 | --------------------|---------| --------| ---------------|
-| [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)|:white_check_mark: |:white_check_mark:||
-| [Dual Lottery Ticket Hypothesis](https://openreview.net/forum?id=fOsN52jn25l)|:white_check_mark: |:white_check_mark:||
-| [Sanity Checks for Lottery Tickets: Does Your Winning Ticket Really Win the Jackpot?](https://papers.nips.cc/paper/2021/hash/6a130f1dc6f0c829f874e92e5458dced-Abstract.html)|:white_check_mark: |:white_check_mark:||
-| [One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://arxiv.org/abs/1906.02773)|:white_check_mark: |:white_check_mark:||
+| [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)|:white_check_mark: |:white_check_mark:|:white_check_mark:|
+| [Dual Lottery Ticket Hypothesis](https://openreview.net/forum?id=fOsN52jn25l)|:white_check_mark: |:white_check_mark:|:white_check_mark:|
+| [Sanity Checks for Lottery Tickets: Does Your Winning Ticket Really Win the Jackpot?](https://papers.nips.cc/paper/2021/hash/6a130f1dc6f0c829f874e92e5458dced-Abstract.html)|:white_check_mark: |:white_check_mark:|:white_check_mark:|
+| [One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://arxiv.org/abs/1906.02773)|:white_check_mark: |:white_check_mark:|:white_check_mark:|
 | [Winning the Lottery Ahead of Time: Efficient Early Network Pruning](https://proceedings.mlr.press/v162/rachwan22a.html) |:white_check_mark: |||
 | [On Lottery Tickets and Minimal Task Representations in Deep Reinforcement Learning](https://openreview.net/forum?id=Fl3Mg_MZR-)|:white_check_mark: |||
 | [Revisit Kernel Pruning with Lottery Regulated Grouped Convolutions](https://openreview.net/forum?id=LdEhiMG9WLO)|:white_check_mark: |||
