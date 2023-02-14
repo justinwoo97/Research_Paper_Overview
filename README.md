@@ -26,7 +26,7 @@
 | [Why Lottery Ticket Wins? A Theoretical Perspective of Sample Complexity on Sparse Neural Networks](https://papers.nips.cc/paper/2021/hash/15f99f2165aa8c86c9dface16fefd281-Abstract.html)|:white_check_mark: |:white_check_mark:||
 | [On the Existence of Universal Lottery Tickets ](https://openreview.net/forum?id=SYB4WrJql1n)|:white_check_mark: |:white_check_mark:||
 | [Proving the Lottery Ticket Hypothesis: Pruning is All You Need](https://arxiv.org/abs/2002.00585)|:white_check_mark: |:white_check_mark: ||
-| [Winning the Lottery Ahead of Time: Efficient Early Network Pruning](https://proceedings.mlr.press/v162/rachwan22a.html) |:white_check_mark: |||
+| [Winning the Lottery Ahead of Time: Efficient Early Network Pruning](https://proceedings.mlr.press/v162/rachwan22a.html) |:white_check_mark: |:white_check_mark:||
 | [On Lottery Tickets and Minimal Task Representations in Deep Reinforcement Learning](https://openreview.net/forum?id=Fl3Mg_MZR-)|:white_check_mark: |||
 | [Revisit Kernel Pruning with Lottery Regulated Grouped Convolutions](https://openreview.net/forum?id=LdEhiMG9WLO)|:white_check_mark: |||
 | [Proving the Lottery Ticket Hypothesis for Convolutional Neural Networks](https://openreview.net/forum?id=Vjki79-619-)|:white_check_mark: |||
