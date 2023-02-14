@@ -23,8 +23,7 @@
 | [Sanity Checks for Lottery Tickets: Does Your Winning Ticket Really Win the Jackpot?](https://papers.nips.cc/paper/2021/hash/6a130f1dc6f0c829f874e92e5458dced-Abstract.html)|:white_check_mark: |:white_check_mark:|:white_check_mark:|
 | [One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://arxiv.org/abs/1906.02773)|:white_check_mark: |:white_check_mark:|:white_check_mark:|
 | [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](https://arxiv.org/abs/1905.01067)|:white_check_mark: |:white_check_mark:||
-| [Why Lottery Ticket Wins? A Theoretical Perspective of Sample Complexity on Sparse Neural Networks](https://papers.nips.cc/paper/2021/hash/15f99f2165aa8c86c9dface16fefd281-Abstract.html)|:white_check_mark: |:white_check_mark:||
-| [On the Existence of Universal Lottery Tickets ](https://openreview.net/forum?id=SYB4WrJql1n)|:white_check_mark: |:white_check_mark:||
+| [Drawing Early-Bird Tickets: Towards More Efficient Training of Deep Networks](https://arxiv.org/abs/1909.11957)|:white_check_mark: |||
 | [Proving the Lottery Ticket Hypothesis: Pruning is All You Need](https://arxiv.org/abs/2002.00585)|:white_check_mark: |:white_check_mark: ||
 | [Winning the Lottery Ahead of Time: Efficient Early Network Pruning](https://proceedings.mlr.press/v162/rachwan22a.html) |:white_check_mark: |:white_check_mark:||
 | [The Elastic Lottery Ticket Hypothesis](https://papers.nips.cc/paper/2021/hash/dfccdb8b1cc7e4dab6d33db0fef12b88-Abstract.html)|:white_check_mark: |:white_check_mark:||
