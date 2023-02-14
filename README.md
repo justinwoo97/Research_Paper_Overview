@@ -24,11 +24,11 @@
 | [One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://arxiv.org/abs/1906.02773)|:white_check_mark: |:white_check_mark:|:white_check_mark:|
 | [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](https://arxiv.org/abs/1905.01067)|:white_check_mark: |:white_check_mark:||
 | [Why Lottery Ticket Wins? A Theoretical Perspective of Sample Complexity on Sparse Neural Networks](https://papers.nips.cc/paper/2021/hash/15f99f2165aa8c86c9dface16fefd281-Abstract.html)|:white_check_mark: |:white_check_mark:||
+| [On the Existence of Universal Lottery Tickets ](https://openreview.net/forum?id=SYB4WrJql1n)|:white_check_mark: |:white_check_mark:||
 | [Winning the Lottery Ahead of Time: Efficient Early Network Pruning](https://proceedings.mlr.press/v162/rachwan22a.html) |:white_check_mark: |||
 | [On Lottery Tickets and Minimal Task Representations in Deep Reinforcement Learning](https://openreview.net/forum?id=Fl3Mg_MZR-)|:white_check_mark: |||
 | [Revisit Kernel Pruning with Lottery Regulated Grouped Convolutions](https://openreview.net/forum?id=LdEhiMG9WLO)|:white_check_mark: |||
 | [Proving the Lottery Ticket Hypothesis for Convolutional Neural Networks](https://openreview.net/forum?id=Vjki79-619-)|:white_check_mark: |||
-| [On the Existence of Universal Lottery Tickets ](https://openreview.net/forum?id=SYB4WrJql1n)|:white_check_mark: |||
 | [Validating the Lottery Ticket Hypothesis with Inertial Manifold Theory](https://papers.nips.cc/paper/2021/hash/fdc42b6b0ee16a2f866281508ef56730-Abstract.html)|:white_check_mark: |||
 | [The Elastic Lottery Ticket Hypothesis](https://papers.nips.cc/paper/2021/hash/dfccdb8b1cc7e4dab6d33db0fef12b88-Abstract.html)|:white_check_mark: |||
 | [Pruning Randomly Initialized Neural Networks with Iterative Randomization](https://papers.nips.cc/paper/2021/hash/23e582ad8087f2c03a5a31c125123f9a-Abstract.html)|:white_check_mark: |||
