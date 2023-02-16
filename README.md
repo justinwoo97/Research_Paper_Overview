@@ -36,3 +36,4 @@
 | [Long Live the Lottery: The Existence of Winning Tickets in Lifelong Learning](https://openreview.net/forum?id=LXMSvPmsm0g)|:white_check_mark: |||
 | [EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets](https://arxiv.org/abs/2101.00063)|:white_check_mark: |||
 | [Efficient Lottery Ticket Finding: Less Data is More](https://proceedings.mlr.press/v139/zhang21c.html)|:white_check_mark: |||
+| [Ten Lessons We Have Learned in the New "Sparseland": A Short Handbook for Sparse Neural Network Researchers](https://arxiv.org/abs/2302.02596)|:white_check_mark: |||
