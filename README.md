@@ -28,7 +28,7 @@
 | [The Elastic Lottery Ticket Hypothesis](https://papers.nips.cc/paper/2021/hash/dfccdb8b1cc7e4dab6d33db0fef12b88-Abstract.html)|:white_check_mark: |:white_check_mark:|:white_check_mark: ||
 | [Revisit Kernel Pruning with Lottery Regulated Grouped Convolutions](https://openreview.net/forum?id=LdEhiMG9WLO)|:white_check_mark: ||||
 | [Pruning Randomly Initialized Neural Networks with Iterative Randomization](https://papers.nips.cc/paper/2021/hash/23e582ad8087f2c03a5a31c125123f9a-Abstract.html)|:white_check_mark: |||
-| [Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network](https://openreview.net/forum?id=U_mat0b9iv)|:white_check_mark: |||
+| [Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network](https://openreview.net/forum?id=U_mat0b9iv)|:white_check_mark: ||:white_check_mark: |
 | [Dissecting Lottery Ticket Transformers: Structural and Behavioral Study of Sparse Neural Machine Translation](https://aclanthology.org/2020.blackboxnlp-1.19/)|:white_check_mark: |||
 | [Plant 'n' Seek: Can You Find the Winning Ticket?](https://openreview.net/pdf?id=9n9c8sf0xm)|:white_check_mark: |hard af||
 | --------------------|--------| --------| --------------|
