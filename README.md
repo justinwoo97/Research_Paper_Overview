@@ -20,21 +20,19 @@
 | Paper               | Backlog | Reading | Notes-Composed | Writing |
 | --------------------|---------| --------| ---------------|---------|
 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)|:white_check_mark: |:white_check_mark:|:white_check_mark:|:white_check_mark: |
-| [Dual Lottery Ticket Hypothesis](https://openreview.net/forum?id=fOsN52jn25l)|:white_check_mark: |:white_check_mark:|:white_check_mark:||
-| [Sanity Checks for Lottery Tickets: Does Your Winning Ticket Really Win the Jackpot?](https://papers.nips.cc/paper/2021/hash/6a130f1dc6f0c829f874e92e5458dced-Abstract.html)|:white_check_mark: |:white_check_mark:|:white_check_mark:||
-| [One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://arxiv.org/abs/1906.02773)|:white_check_mark: |:white_check_mark:|:white_check_mark:|
+| [Dual Lottery Ticket Hypothesis](https://openreview.net/forum?id=fOsN52jn25l)|:white_check_mark: |:white_check_mark:|:white_check_mark:|:white_check_mark: |
+| [Sanity Checks for Lottery Tickets: Does Your Winning Ticket Really Win the Jackpot?](https://papers.nips.cc/paper/2021/hash/6a130f1dc6f0c829f874e92e5458dced-Abstract.html)|:white_check_mark: |:white_check_mark:|:white_check_mark:|:white_check_mark: |
+| [One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://arxiv.org/abs/1906.02773)|:white_check_mark: |:white_check_mark:|:white_check_mark:|:white_check_mark: |
 | [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](https://arxiv.org/abs/1905.01067)|:white_check_mark: |:white_check_mark:|:white_check_mark:||
 | [Winning the Lottery Ahead of Time: Efficient Early Network Pruning](https://proceedings.mlr.press/v162/rachwan22a.html) |:white_check_mark: |:white_check_mark:|||
-| [The Elastic Lottery Ticket Hypothesis](https://papers.nips.cc/paper/2021/hash/dfccdb8b1cc7e4dab6d33db0fef12b88-Abstract.html)|:white_check_mark: |:white_check_mark:|:white_check_mark: ||
+| [The Elastic Lottery Ticket Hypothesis](https://papers.nips.cc/paper/2021/hash/dfccdb8b1cc7e4dab6d33db0fef12b88-Abstract.html)|:white_check_mark: |:white_check_mark:|||
 | [Revisit Kernel Pruning with Lottery Regulated Grouped Convolutions](https://openreview.net/forum?id=LdEhiMG9WLO)|:white_check_mark: ||||
 | [Pruning Randomly Initialized Neural Networks with Iterative Randomization](https://papers.nips.cc/paper/2021/hash/23e582ad8087f2c03a5a31c125123f9a-Abstract.html)|:white_check_mark: |||
-| [Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network](https://openreview.net/forum?id=U_mat0b9iv)|:white_check_mark: ||:white_check_mark: |
+| [Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network](https://openreview.net/forum?id=U_mat0b9iv)|:white_check_mark: |||
 | [Dissecting Lottery Ticket Transformers: Structural and Behavioral Study of Sparse Neural Machine Translation](https://aclanthology.org/2020.blackboxnlp-1.19/)|:white_check_mark: |||
 | [Plant 'n' Seek: Can You Find the Winning Ticket?](https://openreview.net/pdf?id=9n9c8sf0xm)|:white_check_mark: |hard af||
-| --------------------|--------| --------| --------------|
-| [The Lottery Ticket Hypothesis for Pre-trained BERT Networks](https://proceedings.neurips.cc/paper/2020/file/b6af2c9703f203a2794be03d443af2e3-Paper.pdf)|:white_check_mark: ||:white_check_mark: |
+| [The Lottery Ticket Hypothesis for Pre-trained BERT Networks](https://proceedings.neurips.cc/paper/2020/file/b6af2c9703f203a2794be03d443af2e3-Paper.pdf)|:white_check_mark: |||
 | [Drawing Early-Bird Tickets: Towards More Efficient Training of Deep Networks](https://arxiv.org/abs/1909.11957)|:white_check_mark: ||:white_check_mark: |
-| [The Lottery Tickets Hypothesis for Supervised and Self-supervised Pre-training in Computer Vision Models](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_The_Lottery_Tickets_Hypothesis_for_Supervised_and_Self-Supervised_Pre-Training_in_CVPR_2021_paper.html)|:white_check_mark: ||:white_check_mark: |
-| [Long Live the Lottery: The Existence of Winning Tickets in Lifelong Learning](https://openreview.net/forum?id=LXMSvPmsm0g)|:white_check_mark: ||:white_check_mark: |
-| [EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets](https://arxiv.org/abs/2101.00063)|:white_check_mark: ||:white_check_mark: |
-| [Efficient Lottery Ticket Finding: Less Data is More](https://proceedings.mlr.press/v139/zhang21c.html)|:white_check_mark: ||:white_check_mark: |
+| [The Lottery Tickets Hypothesis for Supervised and Self-supervised Pre-training in Computer Vision Models](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_The_Lottery_Tickets_Hypothesis_for_Supervised_and_Self-Supervised_Pre-Training_in_CVPR_2021_paper.html)|:white_check_mark: |||
+| [Long Live the Lottery: The Existence of Winning Tickets in Lifelong Learning](https://openreview.net/forum?id=LXMSvPmsm0g)|:white_check_mark: || |
+| [Efficient Lottery Ticket Finding: Less Data is More](https://proceedings.mlr.press/v139/zhang21c.html)|:white_check_mark: |||
