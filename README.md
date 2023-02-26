@@ -20,6 +20,8 @@
 | Paper               | Backlog | Reading | Notes-Composed | Writing |
 | --------------------|---------| --------| ---------------|---------|
 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)|:white_check_mark: |:white_check_mark:|:white_check_mark:|:white_check_mark: |
+| [Stabilizing the Lottery Ticket Hypothesis](https://arxiv.org/abs/1903.01611)|:white_check_mark: ||||
+| [Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://arxiv.org/abs/2003.02389)|:white_check_mark: ||||
 | [Dual Lottery Ticket Hypothesis](https://openreview.net/forum?id=fOsN52jn25l)|:white_check_mark: |:white_check_mark:|:white_check_mark:|:white_check_mark: |
 | [Sanity Checks for Lottery Tickets: Does Your Winning Ticket Really Win the Jackpot?](https://papers.nips.cc/paper/2021/hash/6a130f1dc6f0c829f874e92e5458dced-Abstract.html)|:white_check_mark: |:white_check_mark:|:white_check_mark:|:white_check_mark: |
 | [One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://arxiv.org/abs/1906.02773)|:white_check_mark: |:white_check_mark:|:white_check_mark:|:white_check_mark: |
