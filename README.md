@@ -34,5 +34,5 @@
 | [Efficient Lottery Ticket Finding: Less Data is More](https://proceedings.mlr.press/v139/zhang21c.html)|:white_check_mark: |:white_check_mark:||
 | [The Lottery Ticket Hypothesis for Pre-trained BERT Networks](https://proceedings.neurips.cc/paper/2020/file/b6af2c9703f203a2794be03d443af2e3-Paper.pdf)|:white_check_mark: |||
 | [Drawing Early-Bird Tickets: Towards More Efficient Training of Deep Networks](https://arxiv.org/abs/1909.11957)|:white_check_mark: |:white_check_mark:|:white_check_mark: |
-| [Proving the Lottery Ticket Hypothesis: Pruning is All You Need](https://arxiv.org/abs/2002.00585)|:white_check_mark: |||
+| [An Empirical Study of Example Forgetting during Deep Neural Network Learning](https://arxiv.org/abs/1812.05159)|:white_check_mark: |||
 | [Dissecting Lottery Ticket Transformers: Structural and Behavioral Study of Sparse Neural Machine Translation](https://aclanthology.org/2020.blackboxnlp-1.19/)|:white_check_mark: |||
