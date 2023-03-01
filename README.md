@@ -28,7 +28,7 @@
 | [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](https://arxiv.org/abs/1905.01067)|:white_check_mark: |:white_check_mark:|:white_check_mark:||
 | [Winning the Lottery Ahead of Time: Efficient Early Network Pruning](https://proceedings.mlr.press/v162/rachwan22a.html) |:white_check_mark: |:white_check_mark:|||
 | [The Elastic Lottery Ticket Hypothesis](https://papers.nips.cc/paper/2021/hash/dfccdb8b1cc7e4dab6d33db0fef12b88-Abstract.html)|:white_check_mark: |:white_check_mark:|:white_check_mark:||
-| [Pruning Randomly Initialized Neural Networks with Iterative Randomization](https://papers.nips.cc/paper/2021/hash/23e582ad8087f2c03a5a31c125123f9a-Abstract.html)|:white_check_mark: |||
+| [Pruning Randomly Initialized Neural Networks with Iterative Randomization](https://papers.nips.cc/paper/2021/hash/23e582ad8087f2c03a5a31c125123f9a-Abstract.html)|:white_check_mark: |:white_check_mark:||
 | [Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network](https://openreview.net/forum?id=U_mat0b9iv)|:white_check_mark: |||
 | [Long Live the Lottery: The Existence of Winning Tickets in Lifelong Learning](https://openreview.net/forum?id=LXMSvPmsm0g)|:white_check_mark: || |
 | [Efficient Lottery Ticket Finding: Less Data is More](https://proceedings.mlr.press/v139/zhang21c.html)|:white_check_mark: |:white_check_mark:||
